@@ -2,6 +2,7 @@ package com.nt.demo;
 
 public class Test {
 	public static void main(String[] args) {
+		System.out.println("HII");
 		int a=10;
 		int b=20;
 		if(a>b) {
